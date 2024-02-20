@@ -23,7 +23,7 @@
 > Two parameters `email` and `password` within incharge login are vulnerable to SQL Injection.
 
 
-![email]()
+![email](https://github.com/jxp98/VulResearch/blob/main/2024/02/img/1.1crs-inchargelogin-email-sqli.png)
 
 ![password]()
 
