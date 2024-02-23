@@ -23,9 +23,9 @@
 > Two parameters `username` and `password` within student login are vulnerable to SQL Injection.
 
 
-![username](https://github.com/jxp98/VulResearch/blob/main/2024/02/img/3Library System In PHP-Sqli-student_login_username.png)
+![username](https://github.com/jxp98/VulResearch/blob/main/2024/02/img/3Library%20System%20In%20PHP-Sqli-student_login_username.png)
 
-![password](https://github.com/jxp98/VulResearch/blob/main/2024/02/img/3Library System In PHP-Sqli-student_login_password.png)
+![password](https://github.com/jxp98/VulResearch/blob/main/2024/02/img/3Library%20System%20In%20PHP-Sqli-student_login_password.png)
 
 ### Description:
 
