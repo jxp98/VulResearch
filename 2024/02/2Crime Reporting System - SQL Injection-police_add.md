@@ -1,5 +1,8 @@
 # Crime Reporting System - SQL Injection (Police Add)
 
+### CVE Assigned:
+**[CVE-2024-1821](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1821)** [mitre.org](https://www.cve.org/CVERecord?id=CVE-2024-1821) [nvd.nist.org](https://nvd.nist.gov/vuln/detail/CVE-2024-1821)
+
 ### Vendor Homepage:
 
 > https://code-projects.org/

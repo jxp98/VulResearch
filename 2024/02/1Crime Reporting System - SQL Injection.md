@@ -1,5 +1,8 @@
 # Crime Reporting System - SQL Injection (Incharge Login)
 
+### CVE Assigned:
+**[CVE-2024-1820](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1820)** [mitre.org](https://www.cve.org/CVERecord?id=CVE-2024-1820) [nvd.nist.org](https://nvd.nist.gov/vuln/detail/CVE-2024-1820)
+
 ### Vendor Homepage:
 
 > https://code-projects.org/
